@@ -1,0 +1,7 @@
+{
+  "name": "InternFlow - Smart Internship Portal",
+  "description": "A high-end internship platform with AI-powered job description generation and candidate matching, featuring a robust admin dashboard and a seamless applicant experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
